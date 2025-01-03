@@ -16,7 +16,7 @@ This repository contains the **visualization and classification analysis of the 
 ## Usage  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/Hansaka2001/HeartDiseaseAnalysis.git  
+   git clone https://github.com/Hansaka2001/HeartDiseaseAnalysis.git](https://github.com/Hansaka2001/HeartDiseaseClassificationandAnalysis.git  
    ```  
 2. Open the Jupyter Notebook and run the cells sequentially.  
 
